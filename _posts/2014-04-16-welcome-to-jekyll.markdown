@@ -22,7 +22,7 @@ func main() {
 {% endhighlight %}
 
 elisp:
-{% highlight elisp %}
+{% highlight lisp %}
 (defun (plus x y) 
            (+ x y))
 {% endhighlight %}
